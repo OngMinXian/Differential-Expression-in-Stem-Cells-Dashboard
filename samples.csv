@@ -1,0 +1,9 @@
+sampleID,reference epigenome,experiment,type,filename,output type,genome,plus,minus
+stemcell1,ENCSR909ZPT,ENCSR348EFG,stemcell,ENCFF276UHZ.tsv,gene quantifications,GRCh38,ENCFF022QBF_plus.bigWig,ENCFF381GKG_minus.bigWig
+stemcell2,NA,ENCSR738PHQ,stemcell,ENCFF214DQX.tsv,gene quantifications,GRCh38,ENCFF629VCP_plus.bigWig,ENCFF566UUL_minus.bigWig
+mesodermal1,ENCSR153XET,ENCSR500UOD,mesodermal,ENCFF479HOA.tsv,gene quantifications,GRCh38,ENCFF388QFN_plus.bigWig,ENCFF553BUT_minus.bigWig
+mesodermal2,ENCSR153XET,ENCSR433GXV,mesodermal,ENCFF717GLA.tsv,gene quantifications,GRCh38,ENCFF103NIX_plus.bigWig,ENCFF094FUR_minus.bigWig
+ectodermal1,ENCSR680KPO,ENCSR851BRK,ectodermal,ENCFF873QEI.tsv,gene quantifications,GRCh38,ENCFF255CRM_plus.bigWig,ENCFF247PDX_minus.bigWig
+ectodermal2,ENCSR680KPO,ENCSR382XJF,ectodermal,ENCFF633UTI.tsv,gene quantifications,GRCh38,ENCFF081XYH_plus.bigWig,ENCFF011AZA_minus.bigWig
+endodermal1,ENCSR377PMZ,ENCSR002CTR,endodermal,ENCFF760DEP.tsv,gene quantifications,GRCh38,ENCFF775NPV_plus.bigWig,ENCFF462HCZ_minus.bigWig
+endodermal2,ENCSR377PMZ,ENCSR472PBS,endodermal,ENCFF819DQO.tsv,gene quantifications,GRCh38,ENCFF911JBW_plus.bigWig,ENCFF989WPH_minus.bigWig
